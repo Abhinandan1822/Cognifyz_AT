@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class PasswordStrengthAnalyzer{
+class PassSafeValidator{
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 

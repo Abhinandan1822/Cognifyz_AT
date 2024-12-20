@@ -1,7 +1,7 @@
 import java.util.Random; // Took its reference from javadoc oracle
 import java.util.Scanner;
 
-class PasswordGenerator{
+class PassGen {
 	public static void main(String[] args) {
 		Scanner scanner = new Scanner(System.in);
 		Random random = new Random();
